@@ -23,3 +23,49 @@
     padding: 9px 20px;
     cursor: pointer;
 }
+
+.cat-1, .cat-2, .cat-3{
+    padding: 9px 30px;
+    border-radius: 15px;
+}
+
+.cat-1{
+    background-color: orange;
+    box-shadow: 5px 10px 15px lightgray;
+}
+
+.cat-2{
+    background-color: orchid;
+    box-shadow: 5px 10px 15px lightgray;
+}
+.cat-3{
+    background-color: blue;
+    box-shadow: 5px 10px 15px lightgray;
+}
+
+.catagories h1{
+    color: white;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+
+#contact-us{
+    height: 300px;
+}
+
+.center-footer{
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+#contact-us h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+}
